@@ -17,19 +17,19 @@ function common(){
             </div>
             <ul id="navbar">
                 <a href="index.html"><li class="navItem">
-                <img src="images/midBlueHome.png" alt="home">
+                <img src="images/aquaHome.png" alt="home">
                 </li></a>
 
                 <a href="study.html"><li class="navItem">
-                <img src="images/midBlueStudy.png" alt="study">
+                <img src="images/aquaStudy.png" alt="study">
                 </li></a>
 
                 <a href="like.html"><li class="navItem">
-                <img src="images/midBlueIdo.png" alt="things i do">
+                <img src="images/aquaIdo.png" alt="things i do">
                 </li></a>
 
                 <a href="about.html"><li class="navItem">
-                <img src="images/midBlueAbout.png" alt="about">
+                <img src="images/aquaAbout.png" alt="about">
                 </li></a>
             </ul>
         </div>
