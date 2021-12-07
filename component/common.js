@@ -16,10 +16,21 @@ function common(){
             <div id="box" class="spinner">
             </div>
             <ul id="navbar">
-                <a href="index.html"><li class="navItem">Home</li></a>
-                <a href="study.html"><li class="navItem">Study</li></a>
-                <a href="like.html"><li class="navItem">Things I Love</li></a>
-                <a href="about.html"><li class="navItem">About</li></a>
+                <a href="index.html"><li class="navItem">
+                <img src="images/midBlueHome.png" alt="home">
+                </li></a>
+
+                <a href="study.html"><li class="navItem">
+                <img src="images/midBlueStudy.png" alt="study">
+                </li></a>
+
+                <a href="like.html"><li class="navItem">
+                <img src="images/midBlueIdo.png" alt="things i do">
+                </li></a>
+
+                <a href="about.html"><li class="navItem">
+                <img src="images/midBlueAbout.png" alt="about">
+                </li></a>
             </ul>
         </div>
         
