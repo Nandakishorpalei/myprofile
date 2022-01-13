@@ -23,14 +23,17 @@
       }
       #mypic{
         position:absolute;
-        height:100vh;
+        height:25vh;
         margin-top: 0;
         filter:saturate(115%) , brightness(100%),hue-rotate(90);
-        box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+        box-shadow: rgba(0, 0, 2, 0.56) 0px 22px 70px 4px;
         z-index:300;
         transition: all 1s ease-out;
-        margin-left: 68.75%;
+        margin-left:84%;
         opacity:0;
+        border-radius:50%;
+        margin-top:10px;
+        border:3px solid rgba(148,233,226,7);
     }
     
     

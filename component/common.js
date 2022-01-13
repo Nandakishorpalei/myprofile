@@ -34,7 +34,7 @@ function common(){
             </ul>
         </div>
         
-        <img id="mypic" src="images/mypic.png" alt="">
+        <img id="mypic" src="images/resumepiccrop.png" alt="">
         <div id="container">
         </div>
             <ul id="footer">
